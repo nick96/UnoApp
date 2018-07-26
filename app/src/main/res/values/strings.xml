@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AubotAssesment</string>
+    <string name="illegal_move_message">Illegal Move, please choose another</string>
+    <string name="ok">OK</string>
+    <string name="pickUpBtn">Pick Up</string>
+    <string name="winner_message">You win!</string>
+    <string name="loser_message">You lose!</string>
+    <string name="your_hand">Your hand:</string>
+    <string name="illegal_pickup_message">You cannot pickup when you have playable cards</string>
+</resources>
